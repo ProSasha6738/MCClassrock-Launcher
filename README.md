@@ -14,5 +14,5 @@ MCClasswork launcher have a two variants - Console version (as main version) and
 Requirements:
 Only Windows (MCClassrock not tested on Windows 7-8.1)
 
-About me: I am beginning programmer, in first I learning Python, that's why development MCClasswork will be difficult.
+About me: I am beginning programmer, I learning Python.
 (Sorry if text in English may be incorrrectly.)
