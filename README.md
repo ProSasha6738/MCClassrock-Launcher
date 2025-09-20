@@ -3,7 +3,6 @@ A launcher for old MCPE versions that using Ninecraft Launcher as "runtime".
 Launcher's source code will be released later.
 (working in process)
 
-Spoiler:
 If you noticed the mistake in text of program or description in GitHub, I'm sorry for misspeaking or wrong translation. I'll fix it.
 
 Authors and uploaders:
