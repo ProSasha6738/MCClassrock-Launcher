@@ -1,6 +1,7 @@
 # MCClassrock-Launcher
 A launcher for old MCPE versions that using Ninecraft Launcher as "runtime".
-(Launcher developement stage: Alpha(Terminal version) and Pre-Alpha(UI))
+
+Launcher developement stage: Alpha(Terminal version) and Pre-Alpha(UI)
 
 If you noticed the mistake in text of program or description in GitHub, I'm sorry for misspeaking or wrong translation. I'll fix it.
 
