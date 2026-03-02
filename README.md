@@ -20,6 +20,7 @@ MCClassrock main version is a UI-VERSION (UI Edition) <--- IT'S IMPORTANT!
 
 About Ninecraft:
 Ninecraft is a launcher(runtime) that running old MCPE version lower than 0.11.1.
+(only x86 versions of old MCPE APK-files: 0.5.0 - 0.11.1)
 
 Requirements:
 Only Windows (MCClassrock not tested on Windows 7-8)
