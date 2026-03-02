@@ -11,7 +11,9 @@ Ninecraft creators - MCPI Revival developers
 Ninecraft with 0.11.1 uploaded by Opticraft
 
 About MCClassrock:
-There are two MCClassrock Launcher variants - Console version (as main version) and UI-version.
+There are two MCClassrock Launcher variants - Terminal Edition and UI edition.
+
+A main version of MCClassrock is UI-version (UI edition)
 
 Requirements:
 Only Windows (MCClassrock not tested on Windows 7-8)
