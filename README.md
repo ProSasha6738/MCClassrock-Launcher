@@ -1,6 +1,6 @@
 # MCClassrock-Launcher
 
-Text in English:
+[    Text in English    ]
 
 A launcher for old MCPE versions that using Ninecraft Launcher as "runtime".
 
@@ -36,7 +36,7 @@ I'm learning Python, PascalABC.NET, C, C++.
 
 
 
-Text in Russian:
+[    Text in Russian    ]
 
 Лаунчер для старых версии MCPE, использующий лаунчер(?) Ninecraft в качестве "рантайма".
 
