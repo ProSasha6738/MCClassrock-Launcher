@@ -2,6 +2,7 @@
 
 Text in English:
 A launcher for old MCPE versions that using Ninecraft Launcher as "runtime".
+
 Launcher developement stage: Alpha version (TE and UIE)
 
 If you noticed the mistake in text of program or description in GitHub,
@@ -35,6 +36,7 @@ I'm learning Python, PascalABC.NET, C, C++.
 
 Text in Russian:
 Лаунчер для старых версии MCPE, использующий лаунчер(?) Ninecraft в качестве "рантайма".
+
 Стадия разработки лаунчера: Альфа-версия (TE и UIE)
 
 Если заметите ошибки текста в программе или описании в GitHub'e,
